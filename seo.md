@@ -1,12 +1,4 @@
----
-title: "117. Populating Next Right Pointers in Each Node II LeetCode Solution"
-description: "Optimal solution for LeetCode Problem 117 in Python, Java, and C++. Includes problem statement, complexity analysis, and structured explanation."
-author: Progiez
-date: 2025-07-14
-tags: [LeetCode, Algorithm, Binary Tree, C++, Java, Python, Progiez]
-canonical_url: https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution
-image: https://progiez.com/wp-content/uploads/2025/02/117-Populating-Next-Right-Pointers-in-Each-Node-II-LeetCode-Problem-Solution.webp
----
+
 
 # 117. Populating Next Right Pointers in Each Node II LeetCode Solution
 

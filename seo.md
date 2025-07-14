@@ -70,8 +70,9 @@ class Solution {
       // Needle the children of the node.
       for (Node* needle = &dummy node; node = node->next) {
         if (node->left != nullptr) {
-... 👉 See full code on [Progiez Post](https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution)
+... 
 ```
+ [See full code ](https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution)
 
 ---
 
@@ -87,9 +88,9 @@ class Solution {
       for (Node needle = dummy; node != null; node = node.next) {
         if (node.left != null) {
           needle.next = node.left;
-... 👉 See full code on [Progiez Post](https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution)
+... 
 ```
-
+ [See full code ](https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution)
 ---
 
 ## Python Solution
@@ -105,8 +106,9 @@ class Solution:
       while node:
         if node.left:
           needle.next = node.left
-... 👉 See full code on [Progiez Post](https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution)
+... 
 ```
+ [See full code ](https://progiez.com/117-populating-next-right-pointers-in-each-node-ii-leetcode-solution)
 
 ---
 
